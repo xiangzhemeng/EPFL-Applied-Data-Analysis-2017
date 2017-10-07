@@ -1,6 +1,6 @@
 # epfl-ada2017-homework-project
 
-Group Member
+**Group Member**
 - Di WU
 - Shengzhao LEI
 - Tao SUN
