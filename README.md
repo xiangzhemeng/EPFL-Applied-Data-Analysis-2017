@@ -2,9 +2,8 @@
 
 Homework for the course applied data analysis 2017 from EPFL. 
 
-Group member :
+### `Team member`:
 
-- Di WU
 - Shengzhao LEI
 - Tao SUN
 - Xiangzhe MENG
