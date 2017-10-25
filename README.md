@@ -1,4 +1,4 @@
-# epfl-ada2017-homework-project
+# EPFL ADA2017 homework
 
 ### Homework for the course applied data analysis 2017 from EPFL. 
 
