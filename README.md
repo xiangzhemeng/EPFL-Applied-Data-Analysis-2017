@@ -42,6 +42,7 @@ In the dataset of reviews, format is one-review-per-line in (loose) json. One ty
 * summary - summary of the review
 * unixReviewTime - time of the review (unix time)
 * reviewTime - time of the review (raw)
+
 In the dataset of metadata, format is one-product-per-line in json and following attributes of products are included:
 * asin - ID of the product
 * title - name of the product
@@ -65,6 +66,7 @@ We plan to schedule our project on the following big steps:
 * 15/11/2017 - 19/12/2017: Data Visualization & Website
 * 28/11/2017 - 19/12/2017: Conclusion & Result presentation
 * 19/12/2017 - 29/01/2018: Poster & Presentation
+
 Thus, we will have finished the first two parts and the third part will have already started until the project milestone 2.
 
 # Questions for TAs
