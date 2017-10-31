@@ -68,7 +68,7 @@ We plan to schedule our project on the following big steps:
 * 28/11/2017 - 19/12/2017: Conclusion & Result presentation
 * 19/12/2017 - 29/01/2018: Poster & Presentation
 
-Thus, we will have finished the first two parts and the third part will have already started until the project milestone 2.
+Thus, we will have finished the first two parts and the third part will have already started until the second project milestone.
 
 # Questions for TAs
 * For Amazon reviews dataset, we would like to know whether the Book subset contains the reviews of Kindle as well? Are we supposed to use two subsets (Book & Kindle)?
