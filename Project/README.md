@@ -13,7 +13,7 @@ Our project, based on the datasets of Amazon reviews, focuses on the difference 
 
 **Reviews Analysis**:
 * How to define the positive review and negative review of books and categorize the reivews based on that?
-* What’s the difference between the styles of people’s reviews (e.g. type of words used, length of reviews, etc.) on two versions of books?
+* What’s the difference between the styles of people’s reviews (e.g. concerning points,type of words used, length of reviews, etc.) on two versions of books?
 
 **Comprehensive Analysis**:
 * Is there any inner connection between the properties of a book and the version chosen? We are going to classify books on the basis of several dimensions in order to help choose a better version for readers.
