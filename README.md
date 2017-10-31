@@ -33,24 +33,24 @@ This dataset contains product reviews and metadata from Amazon, including 142.8 
 
 This dataset includes reviews (ratings, text, helpfulness votes), product metadata (descriptions, category information, price, brand, and image features), and links (also viewed/also bought graphs).
 In the dataset of reviews, format is one-review-per-line in (loose) json. One typical review has following attributes:
-    * reviewerID - ID of the reviewer
-    * asin - ID of the product
-    * reviewerName - name of the reviewer
-    * helpful - helpfulness rating of the review
-    * reviewText - text of the review
-    * overall - rating of the product
-    * summary - summary of the review
-    * unixReviewTime - time of the review (unix time)
-    * reviewTime - time of the review (raw)
+* reviewerID - ID of the reviewer
+* asin - ID of the product
+* reviewerName - name of the reviewer
+* helpful - helpfulness rating of the review
+* reviewText - text of the review
+* overall - rating of the product
+* summary - summary of the review
+* unixReviewTime - time of the review (unix time)
+* reviewTime - time of the review (raw)
 In the dataset of metadata, format is one-product-per-line in json and following attributes of products are included:
-    * asin - ID of the product
-    * title - name of the product
-    * price - price in US dollars (at time of crawl)
-    * imUrl - url of the product image
-    * related - related products (also bought, also viewed, bought together, buy after viewing)
-    * salesRank - sales rank information
-    * brand - brand name
-    * categories - list of categories the product belongs to
+* asin - ID of the product
+* title - name of the product
+* price - price in US dollars (at time of crawl)
+* imUrl - url of the product image
+* related - related products (also bought, also viewed, bought together, buy after viewing)
+* salesRank - sales rank information
+* brand - brand name
+* categories - list of categories the product belongs to
 
 **Usage**:
 
@@ -60,11 +60,11 @@ The dataset of reviews provides us with the text of review, rating information, 
 
 # A list of internal milestones up until project milestone 2
 We plan to schedule our project on the following big steps:
-    * 01/11/2017 - 15/11/2017: data collection and wrangling
-    * 15/11/2017 - 28/11/2017: Data analysis & Key point study
-    * 15/11/2017 - 19/12/2017: Data Visualization & Website
-    * 28/11/2017 - 19/12/2017: Conclusion & Result presentation
-    * 19/12/2017 - 29/01/2018: Poster & Presentation
+* 01/11/2017 - 15/11/2017: data collection and wrangling
+* 15/11/2017 - 28/11/2017: Data analysis & Key point study
+* 15/11/2017 - 19/12/2017: Data Visualization & Website
+* 28/11/2017 - 19/12/2017: Conclusion & Result presentation
+* 19/12/2017 - 29/01/2018: Poster & Presentation
 Thus, we will have finished the first two parts and the third part will have already started until the project milestone 2.
 
 # Questions for TAs
