@@ -1,5 +1,5 @@
 # Kindlize or Not
-**Team Members:** Shengzhao Lei, Tao Sun, Xiangzhe Meng
+**Team Members:** Shengzhao LEI, Tao SUN, Xiangzhe MENG
 
 # Abstract
 2007 changed the world of reading forever with Amazon’s launch of its first e-reader, Kindle. And only three years later, Amazon announced that sales of eBooks, for the first time, outnumbered sales of hardcover books. People began to keep asking the same question: “Do we still need hardcovers in the future?” Now, ten years after the birth of Kindle, we want to give you an answer. 
@@ -7,27 +7,27 @@
 Our project, based on the datasets of Amazon reviews, focuses on the difference between the electronic and paper version of each book on reviews and on ratings. With interactive and intuitive visualization, we are going to show you the answer in different dimensions of books (e.g. type, size, language, publishing company, etc.). We want to study how the Kindle has changed the people’s ideas and passion about books and whether or not Kindlization is a good idea for each book. Basic machine learning and natural language processing methods are to be expected in the project.
 
 # Research questions
-**Ratings Analysis**:
+**Ratings Analysis:**
 * Is there any difference on average rating between Kindle and paper versions?
 * Chronologically, how the emergence of Kindle changed the rating of books?
 
-**Reviews Analysis**:
+**Reviews Analysis:**
 * How to define the positive review and negative review of books and categorize the reivews based on that?
-* What’s the difference between the styles of people’s reviews (e.g. concerning points,type of words used, length of reviews, etc.) on two versions of books?
+* Does Kindle make people more willing to write reviews？ What’s the difference between the styles of people’s reviews (e.g. length of reviews, type of words used, concerning points,etc.) on two versions of books?
 
-**Comprehensive Analysis**:
+**Comprehensive Analysis:**
 * Is there any inner connection between the properties of a book and the version chosen? We are going to classify books on the basis of several dimensions in order to help choose a better version for readers.
 * According to the classification obtained by the previous question and ratings, what are the advantages of these two versions respectively?
 
-**Kindle**:
+**Kindle:**
 * How to make some valid amendments for Kindle? (This is a potential research question because currently we haven’t seen the content of the dataset. If there are a large number of reviews which give us feedback concerning the user experience of Kindle itself, we will make some reasonable suggestions for the ebook reader as well.)
 
 # Dataset
-**Name**: Amazon product data
+**Name:** Amazon product data
 
-**Source**: http://jmcauley.ucsd.edu/data/amazon/
+**Source:** http://jmcauley.ucsd.edu/data/amazon/
 
-**Description**:
+**Description:**
 
 This dataset contains product reviews and metadata from Amazon, including 142.8 million reviews spanning May 1996 - July 2014.
 
@@ -54,7 +54,7 @@ In the dataset of metadata, format is one-product-per-line in json and following
 * brand - brand name
 * categories - list of categories the product belongs to
 
-**Usage**:
+**Usage:**
 
 This project will mostly use two subsets of the Amazon reviews dataset: Books and Kindle Store. We are going to use reviews dataset for rating and review analysis and product metadata dataset for book categorization and classification. With the help of attribute asin, we can easily find the connections between two datasets.
 
