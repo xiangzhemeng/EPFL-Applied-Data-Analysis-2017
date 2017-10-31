@@ -12,16 +12,16 @@ Our project, based on the datasets of Amazon reviews, focuses on the difference 
 * Chronologically, how the emergence of Kindle changed the rating of books?
 
 **Reviews Analysis:**
-* How to label or categorize the reviews? e.g. How to define positive and negative reviews?
+* How to define the positive review and negative review of books and categorize the reivews based on that?
 * Does Kindle make people more willing to write reviews? What’s the difference between the styles of people’s reviews (e.g. length of reviews, type of words used, concerning points, etc.) of two versions of books?
 
 **Comprehensive Analysis:**
 * Is there any inner connection between the properties of a book and the version chosen? We are going to classify books on the basis of several dimensions in order to help choose a better version for readers.
 * According to the classification obtained by the previous question and ratings, what are the advantages of these two versions respectively?
 
-**Kindle:**
+**Application:**
 * How to make some valid amendments for Kindle? (This is a potential research question because currently we haven’t seen the content of the dataset. If there are a large number of reviews which give us feedback concerning the user experience of Kindle itself, we will make some reasonable suggestions for the ebook reader as well.)
-
+* How to obtain the keywords of the each book from review that can help readers have a preliminary understanding of the book.
 # Dataset
 **Name:** Amazon product data
 
