@@ -12,7 +12,7 @@ Our project, based on the datasets of Amazon reviews, focuses on the difference 
 * Chronologically, how the emergence of Kindle changed the rating of books?
 
 **Reviews Analysis:**
-* How to define the positive review and negative review of books and categorize the reivews based on that?
+* How to label or categorize the reviews? e.g. How to define positive and negative reviews?
 * Does Kindle make people more willing to write reviews? What’s the difference between the styles of people’s reviews (e.g. length of reviews, type of words used, concerning points, etc.) of two versions of books?
 
 **Comprehensive Analysis:**
