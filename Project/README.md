@@ -16,8 +16,8 @@ Our project, based on the datasets of Amazon reviews, focuses on the difference 
 * What’s the difference between the styles of people’s reviews (e.g. type of words used, length of reviews, etc.) on two versions of books?
 
 **Comprehensive Analysis**:
-* What are the advantages of these two versions respectively based on the reviews and ratings?
 * Is there any inner connection between the properties of a book and the version chosen? We are going to classify books on the basis of several dimensions in order to help choose a better version for readers.
+* According to the classification obtained by the previous question and ratings, what are the advantages of these two versions respectively?
 
 **Kindle**:
 * How to make some valid amendments for Kindle? (This is a potential research question because currently we haven’t seen the content of the dataset. If there are a large number of reviews which give us feedback concerning the user experience of Kindle itself, we will make some reasonable suggestions for the ebook reader as well.)
