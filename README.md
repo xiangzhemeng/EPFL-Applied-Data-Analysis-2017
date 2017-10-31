@@ -1,5 +1,5 @@
 # Kindlize or Not
-**Team members:** Lei Shengzhao, Tao Sun, Xiangzhe Meng
+**Team Members:** Shengzhao Lei, Tao Sun, Xiangzhe Meng
 
 # Abstract
 2007 changed the world of reading forever with Amazon’s launch of its first e-reader, Kindle. And only three years later, Amazon announced that sales of eBooks, for the first time, outnumbered sales of hardcover books. People began to keep asking the same question: “Do we still need hardcovers in the future?” Now, ten years after the birth of Kindle, we want to give you an answer. 
@@ -13,17 +13,17 @@ Our project, based on the datasets of Amazon reviews, focuses on the difference 
 
 **Reviews Analysis**:
 * How to define the positive review and negative review of books and categorize the reivews based on that?
-* What’s the difference between the styles of people’s reviews (e.g. words used, length of reviews, etc.) on two versions of books?
+* What’s the difference between the styles of people’s reviews (e.g. type of words used, length of reviews, etc.) on two versions of books?
 
 **Comprehensive Analysis**:
 * What are the advantages of these two versions respectively based on the reviews and ratings?
 * Is there any inner connection between the properties of a book and the version chosen? We are going to classify books on the basis of several dimensions in order to help choose a better version for readers.
 
 **Kindle**:
-* How to make some valid amendments for Kindle? (This is a potential research question because currently we haven’t seen the content of the dataset. If there are a large number of reviews which give us feedback concerning the user experience of Kindle itself instead of the reading experience of Kindle books, we will make some reasonable suggestions for Kindle itself as well.)
+* How to make some valid amendments for Kindle? (This is a potential research question because currently we haven’t seen the content of the dataset. If there are a large number of reviews which give us feedback concerning the user experience of Kindle itself, we will make some reasonable suggestions for the ebook reader as well.)
 
 # Dataset
-**Name**: Amazon reviews
+**Name**: Amazon product data
 
 **Source**: http://jmcauley.ucsd.edu/data/amazon/
 
@@ -32,6 +32,7 @@ Our project, based on the datasets of Amazon reviews, focuses on the difference 
 This dataset contains product reviews and metadata from Amazon, including 142.8 million reviews spanning May 1996 - July 2014.
 
 This dataset includes reviews (ratings, text, helpfulness votes), product metadata (descriptions, category information, price, brand, and image features), and links (also viewed/also bought graphs).
+
 In the dataset of reviews, format is one-review-per-line in (loose) json. One typical review has following attributes:
 * reviewerID - ID of the reviewer
 * asin - ID of the product
