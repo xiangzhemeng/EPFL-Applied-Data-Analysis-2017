@@ -1,4 +1,4 @@
-# EPFL Applied data analysis 2017
+# EPFL Applied Data Analysis 2017
 
 ### Homework & Project Repository  
 
