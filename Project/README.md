@@ -16,6 +16,8 @@ Our project, based on the Amazon kindle store product and review datasets, focus
 **Comprehensive analysis:**
 * For each rating, what is the style of people’s review (e.g. length of reviews, type of words used, concerning points, etc.)? 
 * Is there any inner connection between one’s rating of a book and his/her review? How can we reasonably vectorize review to make it suitable for analytical handling? (Try to make use of spectral graph theory and machine learning)
+* Is there any inner connection between reviews and the book's category? How can we decide the category according to the reviews?
+ (Try to find the keywords of each category and match the keywords with input reviews.)
 * Based on the review and rating, is it possible to automatically generate some general summary reviews for each rate level? Maybe with the key words we have already found. Or, maybe it’s the stage for neural network.
 
 # Dataset
