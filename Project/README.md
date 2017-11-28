@@ -50,9 +50,9 @@ In the dataset of metadata, format is one-product-per-line in json and following
 * categories - list of categories the product belongs to
 
 **Usage:**
-This project will mostly use two subsets of the Amazon reviews dataset: Books and Kindle Store. We are going to use reviews dataset for rating and review analysis and product metadata dataset for book categorization and classification. With the help of attribute asin, we can easily find the connections between two datasets.
+This project will mostly use two subsets of the Amazon reviews dataset: Kindle store metadata and review datasets. We are going to use reviews dataset for rating and review analysis and product metadata dataset for kindle book categorization and classification.
 
-The dataset of reviews provides us with the text of review, rating information, and importantly, the time of review, which is good for chronological analysis. The dataset of metadata provides us with various ways for book classification: price, brand and category. The data of sales rank is also helpful to determine the popularity and sales of one book.
+The dataset of reviews provides us with the text of review, rating information, and importantly, the time of review, which is good for chronological analysis. The dataset of metadata provides us with various ways for product classification in terms of category. The data of sales rank might also be helpful to determine the popularity and sales of one book.
 
 # A list of internal milestones up until project milestone 2
 We plan to schedule our project on the following big steps:
