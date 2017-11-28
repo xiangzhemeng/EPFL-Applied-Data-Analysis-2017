@@ -2,7 +2,7 @@
 
 ### Homework & Project Repository  
 
-### `Team member:`
+### `Team members:`
 
 - Shengzhao LEI
 - Tao SUN
