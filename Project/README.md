@@ -54,10 +54,10 @@ This project will mostly use two subsets of the Amazon reviews dataset: Kindle s
 
 The dataset of reviews provides us with the text of review, rating information, and importantly, the time of review, which is good for chronological analysis. The dataset of metadata provides us with various ways for product classification in terms of category. The data of sales rank might also be helpful to determine the popularity and sales of one book.
 
-# A list of internal milestones up until project milestone 2
+# A list of internal milestones
 We plan to schedule our project on the following big steps:
 * 01/11/2017 - 15/11/2017: data collection and wrangling
 * 15/11/2017 - 28/11/2017: Data analysis & Key point study
-* 15/11/2017 - 19/12/2017: Data Visualization
-* 28/11/2017 - 19/12/2017: Conclusion & Result presentation
+* 15/11/2017 - 19/12/2017: Data visualization
+* 28/11/2017 - 19/12/2017: Conclusion & result presentation
 * 19/12/2017 - 29/01/2018: Poster & Presentation
