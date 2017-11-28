@@ -2,21 +2,21 @@
 **Team Members:** Shengzhao LEI, Tao SUN, Xiangzhe MENG
 
 # Abstract
-Reviews and ratings are everything on Amazon. One of the main reasons why customers are attracted towards Amazon, is the presence of reviews and ratings about that product, which basically helps them understand about almost every detail of the product. But, how people review? Tons of reviews on Amazon make itself as the best dataset for language analysis which is exactly what we are eager to do.
+Reviews and ratings are everything for Amazon. One of the main reasons why customers trust Amazon, is the presence of reviews and ratings about products, which basically helps them understand about almost every detail of the product. But, how people review? Tons of reviews on Amazon make themselves as the best dataset for numerical and textual data analysis which is exactly what we are eager to do.
 
-Our project, based on the datasets of Amazon reviews, focuses not only on the basics of reviews and rating on Amazon, but also on the relationship between these two. With interactive and intuitive visualization, we are going to show you how people’s ratings and styles of review vary in different categories of books and also the over-year changings. We want to study whether or not the rate people score has connection with what they write in review. Basic machine learning and natural language processing methods are to be expected in the project.
+Our project, based on the Amazon kindle store product and review datasets, focuses not only on the basic factors of reviews and rating on Amazon, but also on the relationship between these two. With interactive and intuitive visualization, we are going to show you how people’s ratings and styles of review vary in different categories of kindle books and also the over-year changings. We want to study whether or not the rate people scores has any connection with what they write in review. Basic machine learning and natural language processing methods are also to be expected in the project.
 
 # Research questions
 **Facile analysis:**
 * How average rating varies between different categories?
 * Chronologically, how the ratings of books change?
 * How to label or categorize or even score the reviews? e.g. How to define positive and negative reviews? (Sentiment analysis)
-* Can we get the keywords of reviews of each category? How they change over years?
+* Can we get the keywords of reviews of each category? How do they change over years?
 
 **Comprehensive analysis:**
-* For each rating, what’s the style of people’s review (e.g. length of reviews, type of words used, concerning points, etc.)? 
+* For each rating, what is the style of people’s review (e.g. length of reviews, type of words used, concerning points, etc.)? 
 * Is there any inner connection between one’s rating of a book and his/her review? How can we reasonably vectorize review to make it suitable for analytical handling? (Try to make use of spectral graph theory and machine learning)
-* Based on the review and rating, is it possible to automatically generate the summary? Maybe with the key words we have already found. Or, maybe it’s the stage for neural network.
+* Based on the review and rating, is it possible to automatically generate some general summary reviews for each rate level? Maybe with the key words we have already found. Or, maybe it’s the stage for neural network.
 
 # Dataset
 **Name:** Amazon product data
@@ -58,6 +58,6 @@ The dataset of reviews provides us with the text of review, rating information, 
 We plan to schedule our project on the following big steps:
 * 01/11/2017 - 15/11/2017: data collection and wrangling
 * 15/11/2017 - 28/11/2017: Data analysis & Key point study
-* 15/11/2017 - 19/12/2017: Data Visualization & Website
+* 15/11/2017 - 19/12/2017: Data Visualization
 * 28/11/2017 - 19/12/2017: Conclusion & Result presentation
 * 19/12/2017 - 29/01/2018: Poster & Presentation
