@@ -1,3 +1,10 @@
+# Reviews are KING
+**Team Members:** Shengzhao LEI, Tao SUN, Xiangzhe MENG
+
+**Project Webiste:** [Reviews are KING](xiangzhemeng.github.io)
+
+**Project Notebook:** [Jupyter NBViewer](https://nbviewer.jupyter.org/gist/TaoSunVoyage/2319dfa47c3e73490b027fb635bede07)
+
 # Notebook structure
 
 #### `Project_main_notebook.ipynb:`
