@@ -84,6 +84,6 @@ We plan to schedule our project on the following big steps:
 # Contributions
 
 * Shengzhao LEI: data loading, word clouds and graphs plotting, word frequency statistics and analysis, part of speech statistics research
-* Tao SUN: data cleaning and preprocessing, general analysis for Kindle book store, analysis for Kindle short read, graphs plotting for data story, presentation
-* Xiangzhe MENG: data cleaning and preprocessing, general analysis for Kindle book store, review sentiment and part of speech analysis, data story construction
+* Tao SUN: data pre-processing, general analysis for Kindle book store, analysis for Kindle short read, graphs plotting for data story, presentation
+* Xiangzhe MENG: data pre-processing, general analysis for Kindle book store, review sentiment and part of speech analysis, data story construction
 
